@@ -1,7 +1,7 @@
 
 package herencia1;
 
-public class EstudianteDistancia extends Estudiante{
+public class EstudianteDistancia extends Estudiante{ // extendes hereda de estudiante
     /*1.  Declarar
         numeroAsignaturas: Entero 
         costoAsginatura: Real 
